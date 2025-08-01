@@ -2,3 +2,5 @@ hola mundo
 linea desde repositorio remoto
 
 hola a todos
+
+linea desde el local y subirla a git hub
